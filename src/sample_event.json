@@ -1,0 +1,185 @@
+{
+  "request": {
+    "options": [
+      "scroll=slow"
+    ],
+    "pageUrl": "https://lu.ma/zlgp0ljd",
+    "api": "event",
+    "version": 3
+  },
+  "objects": [
+    {
+      "images": [
+        {
+          "naturalHeight": 400,
+          "width": 330,
+          "diffbotUri": "image|3|-672905518",
+          "url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/event-covers/ze/d6cb699c-88ae-4d81-8957-649a32b33b21",
+          "naturalWidth": 400,
+          "primary": true,
+          "height": 330
+        }
+      ],
+      "endDate": "Thu, 19 Sep 2024 04:00:00 GMT",
+      "diffbotUri": "event|3|741373014",
+      "description": "​𝑵𝑶𝑼𝑺𝑪𝑶𝑵 celebrates the gift of open-source and new exciting ways to leverage AI 𖠋\n​This event features lightning talks by your favorite cracked anon AI researchers. Plus tacos & margaritas! Come hangout with our partners at GitHub, Edge AGI, Mozilla Ventures, Axolotl, and Arcee AI.\n​Doors Open @ 5 pm\n​Lightning Talks @ 6 pm\n​Social Time! Let's Chat @ 7/730 pm\n​*ੈ✩ ᴛᴇᴄʜɴᴏʟᴏɢɪᴄᴀʟ ᴏᴘᴛɪᴍɪꜱᴍ ɪɴ ᴀ ᴛɪᴍᴇ ᴏꜰ ɢʀᴇᴀᴛ ᴡᴏʀʀʏ *ੈ✩",
+      "type": "event",
+      "title": "NousCon",
+      "tags": [
+        {
+          "score": 0.8156575560569763,
+          "sentiment": 0,
+          "count": 1,
+          "label": "Mozilla Ventures",
+          "uri": "https://diffbot.com/entity/Ecm3PvhFTNDSE7WsnoAf4ng",
+          "rdfTypes": [
+            "http://dbpedia.org/ontology/Organisation"
+          ]
+        },
+        {
+          "score": 0.7964927554130554,
+          "sentiment": 0,
+          "count": 1,
+          "label": "San Francisco",
+          "uri": "https://diffbot.com/entity/E8AV-O2v0MBuACAY7pFZzbg",
+          "rdfTypes": [
+            "http://dbpedia.org/ontology/Place",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Settlement",
+            "http://dbpedia.org/ontology/City"
+          ]
+        },
+        {
+          "score": 0.5917081832885742,
+          "sentiment": 0,
+          "count": 1,
+          "label": "Arcee.ai",
+          "uri": "https://diffbot.com/entity/EE-qKmJPTMyKdanXlkpRmHw",
+          "rdfTypes": [
+            "http://dbpedia.org/ontology/Organisation"
+          ]
+        },
+        {
+          "score": 0.5080122947692871,
+          "sentiment": 0,
+          "count": 1,
+          "label": "GitHub",
+          "uri": "https://diffbot.com/entity/Ebprgobk7N6WJkmUHm-IdFQ",
+          "rdfTypes": [
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Place",
+            "http://dbpedia.org/ontology/Skill",
+            "http://dbpedia.org/ontology/Work"
+          ]
+        },
+        {
+          "score": 0.45949894189834595,
+          "sentiment": 0.713,
+          "count": 2,
+          "label": "lightning talk",
+          "uri": "https://diffbot.com/entity/EAcOWJBnjOgyusYwBg3CkfQ",
+          "rdfTypes": [
+            "http://dbpedia.org/ontology/Event"
+          ]
+        },
+        {
+          "score": 0.4573010504245758,
+          "sentiment": 0.978,
+          "count": 1,
+          "label": "Margarita",
+          "uri": "https://diffbot.com/entity/ESBLyEX-3OZGzaR6glN6byA",
+          "rdfTypes": [
+            "http://dbpedia.org/ontology/Skill",
+            "http://dbpedia.org/ontology/ChemicalSubstance",
+            "http://dbpedia.org/ontology/Food"
+          ]
+        },
+        {
+          "score": 0.4552200436592102,
+          "sentiment": 0,
+          "count": 2,
+          "label": "artificial intelligence",
+          "uri": "https://diffbot.com/entity/E_lYDrjmAMlKKwXaDf958zg",
+          "rdfTypes": [
+            "http://dbpedia.org/ontology/Skill",
+            "http://dbpedia.org/ontology/Activity",
+            "http://dbpedia.org/ontology/TopicalConcept",
+            "http://dbpedia.org/ontology/AcademicSubject"
+          ]
+        },
+        {
+          "score": 0.4043569266796112,
+          "sentiment": 0,
+          "count": 1,
+          "label": "Wednesday",
+          "uri": "https://diffbot.com/entity/E2ScBp8V9PeWys3zYj63LpQ"
+        },
+        {
+          "score": 0.3961185812950134,
+          "sentiment": 0.957,
+          "count": 1,
+          "label": "open-source software",
+          "uri": "https://diffbot.com/entity/ES6_FkMFSOZ-Iq7vu-jrIdw",
+          "rdfTypes": [
+            "http://dbpedia.org/ontology/Skill"
+          ]
+        },
+        {
+          "score": 0.3661538362503052,
+          "sentiment": 0,
+          "count": 1,
+          "label": "research",
+          "uri": "https://diffbot.com/entity/E90uutHhpNCGF6RKEgfnwOg",
+          "rdfTypes": [
+            "http://dbpedia.org/ontology/Skill",
+            "http://dbpedia.org/ontology/Activity"
+          ]
+        }
+      ],
+      "timezoneOffset": "-07:00",
+      "humanLanguage": "en",
+      "pageUrl": "https://lu.ma/zlgp0ljd",
+      "location": {
+        "country": {
+          "name": "United States",
+          "diffbotUri": "http://diffbot.com/entity/E01d4EK33MmCosgI2KXa4-A",
+          "targetDiffbotId": "E01d4EK33MmCosgI2KXa4-A"
+        },
+        "address": "San Francisco, California",
+        "city": {
+          "name": "San Francisco",
+          "diffbotUri": "http://diffbot.com/entity/E8AV-O2v0MBuACAY7pFZzbg",
+          "targetDiffbotId": "E8AV-O2v0MBuACAY7pFZzbg"
+        },
+        "metroArea": {
+          "name": "San Francisco Bay Area",
+          "diffbotUri": "http://diffbot.com/entity/E9vk_v1rKPgitvjkH--IN8w",
+          "targetDiffbotId": "E9vk_v1rKPgitvjkH--IN8w"
+        },
+        "subregion": {
+          "name": "San Francisco County",
+          "diffbotUri": "http://diffbot.com/entity/E8AV-O2v0MBuACAY7pFZzbg",
+          "targetDiffbotId": "E8AV-O2v0MBuACAY7pFZzbg"
+        },
+        "latitude": 37.77800750732422,
+        "precision": 24.501174926757812,
+        "region": {
+          "name": "California",
+          "diffbotUri": "http://diffbot.com/entity/El0_8ehooNxOPT36Y4RdV9w",
+          "targetDiffbotId": "El0_8ehooNxOPT36Y4RdV9w"
+        },
+        "longitude": -122.4312744140625
+      },
+      "categories": [
+        {
+          "score": 0.92,
+          "name": "Events and Attractions",
+          "id": "iabv2-150"
+        }
+      ],
+      "startDateLocalTimezone": "Wed, 18 Sep 2024 17:00:00",
+      "endDateLocalTimezone": "Wed, 18 Sep 2024 21:00:00",
+      "startDate": "Thu, 19 Sep 2024 00:00:00 GMT"
+    }
+  ]
+}

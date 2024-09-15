@@ -1,0 +1,407 @@
+{
+  "request": {
+    "options": [
+      "scroll=slow"
+    ],
+    "pageUrl": "https://lu.ma/sf/",
+    "api": "list",
+    "version": 3,
+    "resolvedPageUrl": "https://lu.ma/sf"
+  },
+  "objects": [
+    {
+      "diffbotUri": "list|3|1845940536",
+      "icon": "https://lu.ma/apple-touch-icon.png",
+      "pageUrl": "https://lu.ma/sf/",
+      "type": "list",
+      "title": "Popular events in San Francisco · Events Calendar",
+      "items": [
+        {
+          "summary": "Tomorrow",
+          "title": "Tomorrow"
+        },
+        {
+          "summary": "Sunday",
+          "title": "Sunday"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 10:00:00 GMT",
+          "summary": "​By Nick Pastenieks​Abanico Coffee Roasters",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/gallery-images/3i/c6d82ac2-cce7-4130-bf75-5e07620d5cf0",
+          "link": "https://lu.ma/fni41o4h",
+          "title": "SF Coffee Club"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 13:00:00 GMT",
+          "summary": "By Michael Lai, William Brega & Sharon Liu-Bettencourt",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/ph/493a643a-b1cd-424d-a669-f5e564e75122",
+          "link": "https://lu.ma/sfmidautumnfest24",
+          "title": "Mid Autumn Festival 🌕🥮"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 14:00:00 GMT",
+          "summary": "By Danielle Lee, Hamsavardhini (Anu) Thirunarayanan, Meg Saksiriwatekul & Satchi",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/bg/8e725a57-0059-416b-bc45-109a1619daa9",
+          "link": "https://lu.ma/6ocht9gb",
+          "title": "Green Picnic #2 - Making Climate Connections!"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 18:00:00 GMT",
+          "summary": "By nav & bihan",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/qz/a4d9eb45-011c-42b1-b8e4-e9384cd1fced",
+          "link": "https://lu.ma/3w68k7ra",
+          "title": "6:00 PM"
+        },
+        {
+          "summary": "Sep 16",
+          "title": "Sep 16"
+        },
+        {
+          "summary": "Monday",
+          "title": "Monday"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 16:00:00 GMT",
+          "summary": "​By Murray​JOE & THE JUICE",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/a9/e7965aba-e0aa-4140-bc22-5f99b35c897e",
+          "link": "https://lu.ma/077adi68",
+          "title": "AI Investors & Networking"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 17:00:00 GMT",
+          "summary": "​By Yujian Tang​GitHub",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/q9/d8be6778-f5c7-41ca-aa19-ae909da017e0",
+          "link": "https://lu.ma/3wq3s8jq",
+          "title": "Awesome AI Dev Tools - September"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 17:00:00 GMT",
+          "summary": "By Divya Demato, Co-founder @ Echo Climate, Deepti Illa, Co-founder @ Echo Climate & 9Zero Climate Innovation Hub",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/kl/03d23816-c50c-42f3-8cd2-85e959b175b8",
+          "link": "https://lu.ma/wsfexxrk",
+          "title": "Countdown to New York Climate Week - SF Networking & Launch Event"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 17:00:00 GMT",
+          "summary": "May the AI Force be with you",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/k3/3dcdf336-ba8f-4f2d-bf5c-4ec074f5ce33",
+          "link": "https://lu.ma/ai-force",
+          "title": "May the AI Force be with you"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 17:30:00 GMT",
+          "summary": "​By Murray​San Francisco, California",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/70/110b46fd-d3f6-4e55-8705-d93b87135677",
+          "link": "https://lu.ma/hooc5pcc",
+          "title": "San Francisco AI Founder and VC Networking"
+        },
+        {
+          "summary": "Sep 17",
+          "title": "Sep 17"
+        },
+        {
+          "summary": "Tuesday",
+          "title": "Tuesday"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 09:00:00 GMT",
+          "summary": "WeWork Office Space & Coworking",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/n8/801a5198-5c97-4841-9669-6c15cc3e363e",
+          "link": "https://lu.ma/0huwfzoa",
+          "title": "Founder Marketing Breakfast - Working Session!"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 17:00:00 GMT",
+          "summary": "​By Banu Kellner​Madarae",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/3d/caa3135e-763e-4808-a5c0-9a4f2ff5f5f9",
+          "link": "https://lu.ma/6q9mg84d",
+          "title": "AI x Humanity Happy Hour"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 17:30:00 GMT",
+          "summary": "​By Puzzle 🧩🚀​San Francisco, California",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/pj/aabed7e7-f89d-47e0-b05b-b2deb55e97fa",
+          "link": "https://lu.ma/1z47o334",
+          "title": "Movie Night Club w/Puzzle, Citizens & Codi"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 18:30:00 GMT",
+          "summary": "By Climate Changemakers, TJ Brown, Emma Tucher & 9Zero Climate Innovation Hub",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/73/4882c67f-33de-40eb-8468-27dc744e96a2",
+          "link": "https://lu.ma/sept-surge-launch-9zero",
+          "title": "San Francisco Kickoff Party: September Surge"
+        },
+        {
+          "summary": "Sep 18",
+          "title": "Sep 18"
+        },
+        {
+          "summary": "Wednesday",
+          "title": "Wednesday"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 08:00:00 GMT",
+          "summary": "8:00 AM\nActuate 2024: Robotics & Embodied AI Summit\n\n\n​\n\nThe Pearl",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/yr/94e83c04-1b43-4a21-9867-62c53a7cc160",
+          "link": "https://lu.ma/actuate",
+          "title": "Actuate 2024: Robotics & Embodied AI Summit"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 12:00:00 GMT",
+          "summary": "SPC End of Summer Demo Faire",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/ik/1a76939a-a37c-425b-9862-a823034c87f3",
+          "link": "https://lu.ma/summer24-demo-spc",
+          "title": "SPC End of Summer Demo Faire"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 16:00:00 GMT",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/a6/0e49f589-d0d8-4f18-b36c-5abc5181562b",
+          "link": "https://lu.ma/n8725ab2",
+          "title": "Btrax Design Community Event: Pitch & Mixer"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 17:00:00 GMT",
+          "summary": "California AI Dreaming Party",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/67/89182d9e-1593-4f46-969e-e7c98f04149a",
+          "link": "https://lu.ma/ai-dreaming",
+          "title": "California AI Dreaming Party"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 17:00:00 GMT",
+          "summary": "By Karan Malhotra, Era Qian, Wing Lian , Shivani & 3 others",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/ze/d6cb699c-88ae-4d81-8957-649a32b33b21",
+          "link": "https://lu.ma/zlgp0ljd",
+          "title": "NousCon"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 17:00:00 GMT",
+          "summary": "By Murray, Lochan Alagh, Keshia Theobald-van Gent, Bill Sautter & 1 other",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/kd/fe2e4d6b-998d-4f3a-9510-1e12450e8e42",
+          "link": "https://lu.ma/uecqgrs5",
+          "title": "Private VC / AI Startup Mixer"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 17:30:00 GMT",
+          "summary": "​By Jordan​DNA Lounge",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/uw/d04e9d6a-30ee-4e90-a35c-b20386562782",
+          "link": "https://lu.ma/ydp6djhu",
+          "title": "SF Game Development feat: Cinevva and Digital Bandidos"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 18:30:00 GMT",
+          "summary": "By Mendel Liu & The SF Commons",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/71/925b66af-b35a-4a79-8f8d-2dd5ea8fbe0d",
+          "link": "https://lu.ma/thoughtexperiments",
+          "title": "🧠 The Thought Experiment Lab [public]"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 19:00:00 GMT",
+          "summary": "By Ian Eisenberg, Ann Pierce & Ai Salon",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/ld/2a5daf36-e42e-4530-9d14-cc173fac6145",
+          "link": "https://lu.ma/mpdhb01n",
+          "title": "Ai Salon & SF Intellectuals"
+        },
+        {
+          "summary": "Sep 19",
+          "title": "Sep 19"
+        },
+        {
+          "summary": "Thursday",
+          "title": "Thursday"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 16:30:00 GMT",
+          "summary": "By Lexi Reese, Steve Herrod, Andrea, Devereaux Hemingway & 4 others",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/jt/7cd8d1a6-134e-4b5f-8085-c821cf55fd9e",
+          "link": "https://lu.ma/aqu6z8ca",
+          "title": "Join us for Lanai's Summer Series Finale: AI @ Work |  Nicole Perlroth & George Mathew"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 17:00:00 GMT",
+          "summary": "By Vamsi Pandari, Chris Leggett, Kyryl Kushnir & michael orlando",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/wh/1babf4e2-be2c-4dfe-a3bc-ee6c8273bd45",
+          "link": "https://lu.ma/d0e5f38d",
+          "title": "Gen AI Observatory - Dreamforce After Party"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 17:00:00 GMT",
+          "summary": "By Andrea Echstenkamper & Ted Carstensen",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/0n/2b89f079-6962-46bd-8d5f-b09038589ae2",
+          "link": "https://lu.ma/hb-fall-session-1",
+          "title": "Heavybit Fall Sessions Week 1"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 17:00:00 GMT",
+          "summary": "​\n\n\n\n\n\n\n\nBy Dasha\n\n​\n\nSan Francisco, California",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/h6/a8e5d21d-0ccc-4878-b6c0-b8e2d8c6388a",
+          "link": "https://lu.ma/mnihqct4",
+          "title": "THE GATHERING"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 17:30:00 GMT",
+          "summary": "By Chris Guest & The GenAI Collective",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/1s/3ad77b7a-4001-4172-90b2-fe85267c3716",
+          "link": "https://lu.ma/lgcgvywy",
+          "title": "🧠 GenAI Collective Marin 🧠  The Scaling Salon"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 17:30:00 GMT",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/qe/7a6a1fd9-19c3-44ae-bc1c-7e728ec3fed1",
+          "link": "https://lu.ma/q3686ukt",
+          "title": "LLM’s, Multimodal & Edge AI"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 17:45:00 GMT",
+          "summary": "​By Michael Ryaboy​Marigold Event Space",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/tz/ba9ee0d1-9bd7-41cf-bbd9-ff5c71ad4276",
+          "link": "https://lu.ma/roa2ak6k",
+          "title": "AI Systems at Scale: Embeddings, LLMs, and Beyond"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 18:00:00 GMT",
+          "summary": "By Jason Cornelius & Arjun Subedi",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/ue/78d998ef-2542-4808-9f98-9abe6f5979a0",
+          "link": "https://lu.ma/2u2z04fn",
+          "title": "Network with AI/ML Deep-tech Researchers"
+        },
+        {
+          "summary": "Sep 20",
+          "title": "Sep 20"
+        },
+        {
+          "summary": "Friday",
+          "title": "Friday"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 09:00:00 GMT",
+          "summary": "By Thierry Damiba, Ojus Save & Madelyn Duhon",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/o8/adb08d99-8145-452e-91c3-efb80fe6cc81",
+          "link": "https://lu.ma/csll5v5j",
+          "title": "Build an AI Scheduler: Smart Meetings with Zoom, LlamaIndex & Qdrant @ AWS"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 13:00:00 GMT",
+          "summary": "By B.E.L.L.E, Lenka Huang & Anna Yuan",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/a4/e672ce36-7454-4ca3-ac94-d861df16e843",
+          "link": "https://lu.ma/4fvranhp",
+          "title": "AI-in-Action: Transforming Customer Engagement & Success with AI"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 19:00:00 GMT",
+          "summary": "Not Another Tech Event: SF Music Collective Show & Social 🎸🎶🎤",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/n9/1b7c5324-0af3-45da-b07b-128d9ce1aa9b",
+          "link": "https://lu.ma/spb13fyr",
+          "title": "Not Another Tech Event: SF Music Collective Show & Social 🎸🎶🎤"
+        },
+        {
+          "summary": "Sep 21",
+          "title": "Sep 21"
+        },
+        {
+          "summary": "Saturday",
+          "title": "Saturday"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 09:30:00 GMT",
+          "summary": "ai + health 24hr hack @ studio 45 (mission)",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/tx/deda7d79-c3bd-4379-9014-79a195a6d8c1",
+          "link": "https://lu.ma/qokre0j2",
+          "title": "ai + health 24hr hack @ studio 45 (mission)"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 09:30:00 GMT",
+          "summary": "By Aiify.io Events, Founders Creative, Fetch.ai Innovation Lab, Steven Echtman & 2 others",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/xw/bf677fab-b8ab-4e9e-93d3-5e482f10a518",
+          "link": "https://lu.ma/agenthack",
+          "title": "📣 Aiify.io Agentic AI World Hackathon - w/ Fetch.ai"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 12:00:00 GMT",
+          "summary": "By Alyah K, Adrian Silver & Shannon Lewis",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/gy/c8951fb0-0ff8-4b64-ab9d-39823e5d9b2c",
+          "link": "https://lu.ma/twkqk3ap",
+          "title": "Out in Climate x Recology’s Art Exhibition at the \"Dump\""
+        },
+        {
+          "date": "Sat, 14 Sep 2024 16:00:00 GMT",
+          "summary": "By Mission Dolores Manor & Akshat Garg",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/gv/b856cc76-95d6-4e83-a58c-b7fe529f7f33",
+          "link": "https://lu.ma/ahre4g5h",
+          "title": "Mission Dolores Manor Startup Showcase"
+        },
+        {
+          "date": "Fri, 22 Sep 2023 00:00:00 GMT",
+          "summary": "By Awesomic Founders Social Club, Roman Sevast & Stacy Pavlyshyna",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/35/2adba80d-323e-435e-b99f-5a5cc4e0de2d",
+          "link": "https://lu.ma/9me3giw0",
+          "title": "Pawsomic Sunday: Paws and Their Founders"
+        },
+        {
+          "summary": "Sep 23",
+          "title": "Sep 23"
+        },
+        {
+          "summary": "Monday",
+          "title": "Monday"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 09:30:00 GMT",
+          "summary": "By Aiify.io Events, Fetch.ai Innovation Lab, Steven Echtman, Mariane Bekker & 1 other",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/k1/b7bbc441-acd2-4425-be65-04f81fc68909",
+          "link": "https://lu.ma/agent",
+          "title": "📣 Aiify.io Agentic AI World Summit – w/ Fetch.ai"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 18:30:00 GMT",
+          "summary": "INNOVIT Spritz & Exhibit",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/qi/37883060-c597-4107-8882-0bf4f7dde180",
+          "link": "https://lu.ma/b0owpidx",
+          "title": "INNOVIT Spritz & Exhibit"
+        },
+        {
+          "summary": "Sep 24",
+          "title": "Sep 24"
+        },
+        {
+          "summary": "Tuesday",
+          "title": "Tuesday"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 09:00:00 GMT",
+          "summary": "​\n\n\n\n\n\n\n\nBy Stefan Kojouharov\n\n​\n\nSan Francisco, California",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/u2/0ff12b63-0b97-422d-9ad4-1679ed99ad37",
+          "link": "https://lu.ma/53nk6r3u",
+          "title": "Chatbot Conference 2024"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 09:00:00 GMT",
+          "summary": "By Arjun Saksena, Anuj Sharma , Madhukar Kumar, Amanpreet Kaur & 2 others",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/x3/0d0e523b-be05-4373-b492-3952d70ef0b6",
+          "link": "https://lu.ma/q1ppsdz7",
+          "title": "The only AI x Marketing Conference"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 17:00:00 GMT",
+          "summary": "By Atal Agarwal, Young Entrepreneurs Hub 🏝️ & OpenSphere",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/rw/60969475-7faa-4af9-a626-838ea4da628f",
+          "link": "https://lu.ma/0i9ufmd0",
+          "title": "Immigrants / Digital Nomads / Network States 🚀"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 17:00:00 GMT",
+          "summary": "By Andre Landgraf & Erik Thorelli",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/sa/0d7c5fb0-1fed-4f39-a25f-6deb41c0c523",
+          "link": "https://lu.ma/s9fudfm8",
+          "title": "React Bay Area at Cisco Meraki"
+        },
+        {
+          "date": "Sat, 14 Sep 2024 17:30:00 GMT",
+          "summary": "AI After Hours @ GitHub w/ Encord",
+          "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=180,height=180/event-covers/dv/42e0f5e1-8b1f-4abd-a766-506855baa3dc",
+          "link": "https://lu.ma/ammy1hbc",
+          "title": "AI After Hours @ GitHub w/ Encord"
+        }
+      ]
+    }
+  ]
+}
