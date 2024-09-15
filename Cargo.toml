@@ -1,0 +1,6 @@
+[package]
+name = "luma-food"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
